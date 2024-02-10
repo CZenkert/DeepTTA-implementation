@@ -1,0 +1,8 @@
+The required files are:
+- Cell_line_RMA_proc_basalExp.txt
+- SMILEinchi.csv
+- GDSC2_fitted_dose_response_25Feb20.xlsx
+- drug_codes_chembl_freq_1500.txt
+
+
+Cell_line_RMA_proc_basalExp.txt is too large to upload to github. You can download in from: https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources/Home.html
